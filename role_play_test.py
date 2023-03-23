@@ -1,7 +1,7 @@
 import openai
 
 # Set up the OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 
 def generate_roleplay_response(subject):
